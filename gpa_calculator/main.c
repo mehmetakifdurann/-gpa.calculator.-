@@ -1,4 +1,4 @@
-//This program is calculating 10 lessons note from their exam notes and lectures credit, After that it calculates your general avarage grade and gives you the half grade of your semester grade.
+//This program is calculating 8 lessons note from their exam notes and lectures credit, After that it calculates your general avarage grade and gives you the half grade of your semester grade.
 
 #include <stdio.h>
 
